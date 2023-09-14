@@ -11,8 +11,9 @@
         // Complete the program and push into Github and Bitbucket
         string jp; //rajkumar
         string cse;//ruban
+        string ECE;//priyab
         
-          Console.WriteLine($"The {collegename} has {course1} ..... ");
+          Console.WriteLine($"The {collegename} has {course1},{course2} ..... ");
        
     }
 }
