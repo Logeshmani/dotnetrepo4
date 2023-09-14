@@ -9,7 +9,8 @@
         // Add few courses and display following 
         // The college has these courses : course1, course2 
         // Complete the program and push into Github and Bitbucket
-        string jp;
+        string jp; //rajkumar
+        string cse;//ruban
         
           Console.WriteLine($"The {collegename} has {course1} ..... ");
        
