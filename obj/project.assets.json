@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\": {}
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
+      "projectUniqueName": "c:\\Users\\rajkumar.ramanathan\\Desktop\\C# project\\dotnetsamp1.csproj",
       "projectName": "dotnetsamp1",
-      "projectPath": "D:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
-      "packagesPath": "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\",
-      "outputPath": "D:\\Relevantz\\dotnetsamp1\\obj\\",
+      "projectPath": "c:\\Users\\rajkumar.ramanathan\\Desktop\\C# project\\dotnetsamp1.csproj",
+      "packagesPath": "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\rajkumar.ramanathan\\Desktop\\C# project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\logeshwaran.mani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rajkumar.ramanathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
