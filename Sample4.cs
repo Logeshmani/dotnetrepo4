@@ -9,6 +9,7 @@
         // Add few courses and display following 
         // The college has these courses : course1, course2 
         // Complete the program and push into Github and Bitbucket
+        collegename="dmi";
 
         
           Console.WriteLine($"The {collegename} has {course1} ..... ");
